@@ -17,4 +17,9 @@ Step 3
 	- ajout du fichier css dans l'index
 	- commit
 
+Step 4
+	- Modification du fichier README.txt
+
+Ce fichier garde la trace de toutes les modifications effectuees. Il y a eu la création de deux fichiers supplémentaires (php et css) puis modification du README.txt pour obtenir les 4 commits distincts qui montrent l'ajout puis la modification de fichiers 
+
 
