@@ -8,7 +8,13 @@ Step 1
 Step 2
 	- Creation du fichier php
 	- maj du README.txt, 
-	- ajout du fichier php dans l'indexe
+	- ajout du fichier php dans l'index
+	- commit
+
+Step 3
+	- Creation du fichier css
+	- maj du README.txt, 
+	- ajout du fichier css dans l'index
 	- commit
 
 
