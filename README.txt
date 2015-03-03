@@ -1,4 +1,14 @@
 creation du fichier README.txt
 Ce fichier présente le projet, il sera mis à jour au fur e à mesure des différentes actions.
 
-1 - Ajout dans l'index et commit de ce fichier
+Step 1
+	- Ajout dans l'index 
+	- commit de ce fichier
+
+Step 2
+	- Creation du fichier php
+	- maj du README.txt, 
+	- ajout du fichier php dans l'indexe
+	- commit
+
+
